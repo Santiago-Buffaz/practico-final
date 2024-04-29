@@ -1,0 +1,5 @@
+experiencia del primer practico: 
+
+ Disfrute mucho la experiencia realizando el practico, ya que pude poner en practica los conocimientos de la calse que por momentos parecia que no llegaba a nada, pero con las instrucciones dadas fue muy interesante ver como todo se iba creando y poniendo en forma.
+
+como coclusion: fue una buena experiencia que me obligo a estudiar en mi casa pero me hizo entender como se aplican todos los comandos basicos de git y git bash.
